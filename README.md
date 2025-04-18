@@ -52,11 +52,6 @@
 
 <img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2lvdjRmN2d6dnA4emFmbG16cnI2c3o0OTYzYnppOXA0NHIzMXZ6bSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/78XCFBGOlS6keY1Bil/giphy.webp"  />
 
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/edwin-dev31/edwin-dev31/output/snake.svg" alt="Snake animation" />
 
 ###
 
@@ -67,11 +62,9 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/edwin-dev31/edwin-dev31/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/edwin-dev31/edwin-dev31/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/edwin-dev31/edwin-dev31/output/pacman-contribution-graph.svg">
-</picture>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/edwin-dev31/edwin-dev31/output/snake.svg" alt="Snake animation" />
 
 ###
 

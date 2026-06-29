@@ -70,8 +70,4 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/edwin-dev31/count.svg?"  />
-</div>
-
 ###

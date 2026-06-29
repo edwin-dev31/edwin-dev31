@@ -64,7 +64,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/edwin-dev31/edwin-dev31/output/snake.svg" alt="Snake animation" />
+<img src="https://cdn.jsdelivr.net/gh/edwin-dev31/edwin-dev31@output/snake.svg" alt="Snake animation" />
 
 ###
 
